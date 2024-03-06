@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(240, 207, 159);
+}
+
+p{
+    font-family: sans-serif;
+    font-size: 40px;
+    color: darkgreen;
+}
